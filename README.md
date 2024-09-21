@@ -67,7 +67,7 @@ python3 tp1_3.2.py
 
 ### 1. Modificar as Variáveis de Acesso ao Banco de Dados
 
-Neste arquivo, você deve apenas garantir que as credenciais estão corretas para acessar o banco de dados `tp1`. Faça a modificação nas seguintes linhas:
+Neste arquivo, você deve apenas garantir que as credenciais estão corretas para acessar o banco de dados `tp1`. Faça a modificação nas seguintes linhas INSERINDO AS **SUAS CREDENCIAIS**:
 
 ```bash
 # Linhas 166-169
