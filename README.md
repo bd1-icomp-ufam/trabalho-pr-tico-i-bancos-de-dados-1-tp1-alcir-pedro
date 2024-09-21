@@ -22,7 +22,7 @@ Para rodar o script `tp1_3.2.py`, são necessárias algumas modificações no c�
 
 #### Primeiro Trecho:
 
-No início, o banco que será acessado deve ser o `postgres` ou outro banco existente que possua as permissões necessárias, pois o banco `tp1` será criado. Faça a modificação nas linhas indicadas:
+No início, o banco que será acessado deve ser o `postgres` ou outro banco existente que possua as permissões necessárias para CRIAR bancos, pois o banco `tp1` será criado. Faça a modificação nas linhas indicadas INSERINDO AS **SUAS CREDENCIAIS**:
 
 ```bash
 # Linhas 5-8
@@ -34,7 +34,7 @@ No início, o banco que será acessado deve ser o `postgres` ou outro banco exis
 
 #### Segundo Trecho:
 
-Após o banco de dados `tp1` ser criado, configure as variáveis para que o script utilize o banco de dados `tp1`. Faça as modificações a partir da linha 30:
+Após o banco de dados `tp1` ser criado, configure as variáveis para que o script utilize o banco de dados `tp1`. Faça as modificações a partir da linha 30 INSERINDO AS **SUAS CREDENCIAIS**:
 
 ```bash
 # Linhas 30-33
